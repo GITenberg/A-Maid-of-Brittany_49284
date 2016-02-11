@@ -1,0 +1,28 @@
+_repo: A-Maid-of-Brittany_49284
+contributor:
+  illustrator:
+    agent_name: Brock, H. M. (Henry Matthew)
+    alias: Brock, Henry Matthew
+    birthdate: &id001 1875
+    deathdate: 1960
+    gutenberg_agent_id: '32971'
+    url: http://www.gutenberg.org/2009/agents/32971
+creator:
+  author:
+    agent_name: Knowles, Mabel Winifred
+    alias: Wynne, May
+    birthdate: *id001
+    deathdate: 1949
+    gutenberg_agent_id: '36829'
+    url: http://www.gutenberg.org/2009/agents/36829
+description: ''
+gutenberg_issued: '2015-06-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '49284'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: A Maid of Brittany
+url: http://www.gutenberg.org/ebooks/49284
