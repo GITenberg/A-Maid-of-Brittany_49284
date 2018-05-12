@@ -1,21 +1,27 @@
 _repo: A-Maid-of-Brittany_49284
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Brock, H. M. (Henry Matthew)
     alias: Brock, Henry Matthew
-    birthdate: &id001 1875
+    birthdate: 1875
     deathdate: 1960
     gutenberg_agent_id: '32971'
     url: http://www.gutenberg.org/2009/agents/32971
+covers:
+- cover_type: archival
+  image_path: 49284-rst/images/img-cover.jpg
 creator:
   author:
     agent_name: Knowles, Mabel Winifred
     alias: Wynne, May
-    birthdate: *id001
+    birthdate: 1875
     deathdate: 1949
     gutenberg_agent_id: '36829'
     url: http://www.gutenberg.org/2009/agents/36829
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49284#A-Maid-of-Brittany
 gutenberg_issued: '2015-06-25'
 gutenberg_type: Text
 identifiers:
